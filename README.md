@@ -14,5 +14,5 @@ mvn package
 
 - Build the project and run the jar using your terminal or command line as :
 ```sh
-java -jar /path/to/download-location/brave-updater.jar
+java -jar /path/to/jar-location/brave-updater.jar
 ````
